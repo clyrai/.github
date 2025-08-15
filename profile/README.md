@@ -3,6 +3,7 @@
 <div align="center">
   <img width="618" alt="clyrai - Engineering Trustworthy AI Infrastructure" src="https://github.com/user-attachments/assets/dbbf5a4f-7b0b-4f43-9b37-ef77dc761ff1" /> 
   <h3>Pioneering Secure, Resilient, and Trustworthy AI Infrastructure</h3>
+  <img width="400" alt="Pixelcut Export Example" src="https://raw.githubusercontent.com/clyrai/.github/refs/heads/main/pixelcut-export-2.png" />
 </div>
 
 ## About clyrai
